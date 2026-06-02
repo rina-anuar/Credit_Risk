@@ -1,0 +1,4 @@
+Model,ROC-AUC,Avg Precision,Recall (default),Precision (default),False Positives,False Negatives
+Logistic Regression,0.864,0.3891,0.7581,0.2267,5184,485
+Random Forest,0.8678,0.3987,0.7566,0.2375,4870,488
+XGBoost,0.8655,0.3977,0.7541,0.2256,5189,493
